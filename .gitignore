@@ -9,3 +9,4 @@ venv/
 tutorials/t*/*.md
 tutorials/t*/docs/
 *.csv
+course-project/report.md
