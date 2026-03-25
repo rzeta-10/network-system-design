@@ -1,4 +1,4 @@
-# Trigger Extraction for Guaranteed Regex Activation
+# Trigex — Trigger Extraction for Guaranteed Regex Activation
 
 This project studies a simple question:
 
