@@ -1,0 +1,11 @@
+*.pdf
+*.txt
+*.pcap
+*.json
+__pycache__/
+venv/
+*.docx
+*.doc
+tutorials/t*/*.md
+tutorials/t*/docs/
+*.csv
